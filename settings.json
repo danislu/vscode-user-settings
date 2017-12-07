@@ -1,5 +1,14 @@
 {
-    "workbench.iconTheme": "vscode-icons",
-    "editor.fontSize": 18,
-    "editor.tabSize": 2
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2,
+    "workbench.sideBar.location": "left",
+    "workbench.activityBar.visible": true,
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 0,
+    "path-intellisense.extensionOnImport": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\Sysnative\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "editor.fontSize": 16,
+    "workbench.panel.location": "bottom",
+    "window.openFilesInNewWindow": "on",
+    "window.openFoldersInNewWindow": "on"
 }
